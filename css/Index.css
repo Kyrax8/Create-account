@@ -207,6 +207,8 @@ opacity: 0.5;
   left: 1.5rem;
   
   border-radius: 1.6rem;
+  cursor: pointer;
+
 
 }
 .Sign-up span{
@@ -217,7 +219,6 @@ left: 8rem;
 font-family: 'Poppins';
 font-weight: 700;
 font-size: 1.5rem;
-
   
 }
 .ayuda{
@@ -225,6 +226,7 @@ font-size: 1.5rem;
   top: 48rem;
   left: 6rem;
   font-family: 'Poppins';
+
 }
 .help{
   font-family: 'Poppins';
