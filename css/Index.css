@@ -4,11 +4,12 @@
     background:#000000 (221, 215, 187);
     position: relative;
 }
-.contenedor img{
+.img{
 
     position: absolute;
     top: 2.5rem;
     left: 0.2rem;
+    cursor: pointer;
 
 
 }
@@ -236,13 +237,16 @@ font-size: 1.5rem;
 
   color: #000000;
 }
-.ayuda2 {
+.ayuda4 {
   position: absolute;
   font-style: 'Poppins';
   font-weight: 600;
   width: 99.4px;
   height: 28px;
-  left: 11rem;
+  left: 17rem;
+  top: 48rem;
+  text-decoration: none;
+  color: #000000;
   
   
   color: #000000;
