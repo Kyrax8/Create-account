@@ -2,6 +2,8 @@
   max-width: 25.8rem;
     height: 896px;
     background:#000000 (221, 215, 187);
+   margin: auto;
+
     position: relative;
 }
 .img{
