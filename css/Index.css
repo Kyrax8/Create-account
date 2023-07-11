@@ -1,0 +1,254 @@
+.contenedor{
+  max-width: 25.8rem;
+    height: 896px;
+    background:#000000 (221, 215, 187);
+    position: relative;
+}
+.img{
+
+    position: absolute;
+    top: 2.5rem;
+    left: 0.2rem;
+    cursor: pointer;
+
+
+}
+.contenedor h1{
+    position: absolute;
+    height: 4rem;
+    left:  2rem;
+    top: 16rem;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 900;
+}
+.Name{
+    position: absolute;
+    width: 2rem;
+    height: 2rem;
+    left: 2rem;
+    top: 21.4rem;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 900;
+
+opacity: 0.7;
+}
+  .email-form {
+    margin: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    
+  }
+  
+  input[type="email"] {
+    width: 20.50rem;
+    padding: 0.1rem;
+    font-size: 16px;
+    position: absolute;
+    top: 23rem;
+    left: 2rem;
+    border: 0;
+  }
+  
+  .linea0{
+    width: 25rem;
+    height: 00.01px;
+    border: 1px solid rgba(8, 2, 2, 0.4);
+    opacity: 0.2; 
+  position: absolute;
+  top: 25rem;
+  }
+
+  
+.correo{
+  position: absolute;
+  height: 2rem;
+  left: 2rem;
+  top: 25.4rem;
+  font-style: normal;
+  font-weight: 900;
+
+opacity: 0.7;
+}
+.email-form {
+  margin: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  
+}
+
+input[type="correo"] {
+  width: 20.50rem;
+  padding: 0.1rem;
+  font-size: 16px;
+  position: absolute;
+  top: 26.8rem;
+  left: 2rem;
+  border: 0;
+}
+.linea1{
+  width: 25rem;
+  height: 00.01px;
+  border: 1px solid rgba(8, 2, 2, 0.4);
+  opacity: 0.2; 
+position: absolute;
+top: 28.6rem;
+}
+
+
+.Password{
+  position: absolute;
+  height: 2rem;
+  left: 2rem;
+  top: 29.4rem;
+  font-style: normal;
+  font-weight: 900;
+
+opacity: 0.7;
+}
+.email-form {
+  margin: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  
+}
+input[type="password"] {
+  width: 20.50rem;
+  padding: 0.1rem;
+  font-size: 16px;
+  position: absolute;
+  top: 30.8rem;
+  left: 2rem;
+  border: 0;
+}
+.linea2{
+  width: 25rem;
+  height: 00.01px;
+  border: 1px solid rgba(8, 2, 2, 0.4);
+  opacity: 0.2; 
+position: absolute;
+top: 32.7rem;
+}
+
+.repeat-password{
+  position: absolute;
+  height: 2rem;
+  left: 2rem;
+  top: 33.4rem;
+  font-style: normal;
+  font-weight: 900;
+
+opacity: 0.7;
+}
+.email-form {
+  margin: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  
+}
+.repeat[type="password"] {
+  width: 20.50rem;
+  padding: 0.1rem;
+  font-size: 16px;
+  position: absolute;
+  top: 34.9rem;
+  left: 2rem;
+  border: 0;
+}
+.linea3{
+  width: 25rem;
+  height: 00.01px;
+  border: 1px solid rgba(8, 2, 2, 0.4);
+  opacity: 0.2; 
+position: absolute;
+top: 36.7rem;
+}
+
+.check{
+  width: 2rem;
+  height: 1rem;
+  position: absolute;
+  top: 38rem;
+  left: 1.5rem;
+}
+.check1{
+ position: absolute;
+left: 4rem;
+top: 38.2rem;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 0.7rem;
+
+color: #000000;
+opacity: 0.5;  
+}
+.Sign-up{
+  width: 22rem;
+  height: 4.4rem;
+  background-color: #000000;
+  position: absolute;
+  top: 42rem;
+  left: 1.5rem;
+  
+  border-radius: 1.6rem;
+  cursor: pointer;
+
+
+}
+.Sign-up span{
+color: white;
+position: absolute;
+top: 1rem;
+left: 8rem;
+font-family: 'Poppins';
+font-weight: 700;
+font-size: 1.5rem;
+  
+}
+.ayuda{
+  position: absolute;
+  top: 48rem;
+  left: 6rem;
+  font-family: 'Poppins';
+
+}
+.help{
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 0.8rem;
+
+  color: #000000;
+}
+.ayuda4 {
+  position: absolute;
+  font-style: 'Poppins';
+  font-weight: 600;
+  width: 99.4px;
+  height: 28px;
+  left: 17rem;
+  top: 48rem;
+  text-decoration: none;
+  color: #000000;
+  
+  
+  color: #000000;
+  
+}
